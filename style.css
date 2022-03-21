@@ -1,0 +1,49 @@
+
+header{
+   background: #ff5757;
+   height: 200px;
+   width: 100%;
+}
+.logo{
+   width: 200px;
+   height: 200px;
+   
+}
+nav{
+   position: absolute;
+   top: 60px;
+   right: 0;
+   margin: 30px;
+}
+nav li{
+   display: inline;
+   margin:15px;
+}
+
+nav a{
+   text-transform:uppercase ;
+   color: white;
+   font-size: 22px;
+   text-decoration: none;
+   
+}
+
+nav a:hover{
+   color:yellow;
+}
+
+
+
+ footer{
+      text-align: center;
+      background: #ff5757;
+      height: 200px;   
+      width: 100%;
+      
+         
+ }
+ .logo-footer{
+   width: 160px;
+   height: 160px;
+   
+}

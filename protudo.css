@@ -1,0 +1,64 @@
+.titulo-principal{
+    text-align: center;
+    font-size: 2em ;
+    margin: 1em;
+    clear: left;
+}
+
+p{
+    text-align: center ;
+    margin: 1em;
+    
+}
+
+.protudos{
+    width: 940px;
+    margin: 0 auto;
+    padding: 50px 0;
+    
+    
+}
+
+.imagem{
+    width: 250px;
+    height: 250px;
+}
+.protudos li{
+    display: inline-block;
+    text-align: center;
+    width: 30%;
+    vertical-align: top;
+    margin: 0 1.5% ;
+    padding: 30px 20px ;
+    box-sizing: border-box;
+    border: 2px solid black;
+    border-radius: 10px;
+
+}
+
+.protudos li:hover{
+    border-color:yellow;
+}
+.protudos li:hover h2{
+    font-size: 40px;
+
+}
+.protudos li:active{
+border-color: green;
+}
+.protudos h2{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.protudo-descrição{
+   font-size: 18px;
+}
+
+.preço{
+  font-size: 22px;
+  font-weight: bold;  
+  margin-top: 10px ;
+}
+
+
